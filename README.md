@@ -1,3 +1,3 @@
 ## 🚀 Live Demo
 
-**🌐 Website URL:** <a href="https://bilal-khan980.github.io/Velvet-Brewlounge/" rel="noopener noreferrer">[[https://avantgarde-travels.vercel.app](https://bilal-khan980.github.io/Velvet-Brewlounge/)](https://bilal-khan980.github.io/Velvet-Brewlounge/)/</a>
+**🌐 Website URL:** <a href="https://bilal-khan980.github.io/Velvet-Brewlounge/" rel="noopener noreferrer">(https://bilal-khan980.github.io/Velvet-Brewlounge/)](https://bilal-khan980.github.io/VelvetBrewlounge/)/</a>
