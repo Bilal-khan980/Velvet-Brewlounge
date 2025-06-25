@@ -1,3 +1,1 @@
-## 🚀 Live Demo
-
-**🌐 Website URL:** <a href="https://velvet-brewlounge.vercel.app/" rel="noopener noreferrer">https://bilal-khan980.github.io/VelvetBrewlounge/</a>
+🌐 **Website URL:** [https://velvet-brewlounge.vercel.app](https://velvet-brewlounge.vercel.app) 
